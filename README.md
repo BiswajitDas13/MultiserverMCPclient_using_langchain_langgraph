@@ -1,3 +1,4 @@
+Project Summary--->>
 In modern AI systems, one of the biggest challenges is how to make multiple tools, APIs, and models work together smoothly.
 Most AI applications today depend on connecting a language model (like GPT) with a single tool or service — for example, a chatbot that calls a single weather API or a calculator function.
 
